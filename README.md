@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Deon Gea 👋
+### Aspiring Embedded System & Firmware Engineer
 
-<!--
-**deongea11/deongea11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering Student passionate about building low-level firmware, microcontrollers, and IoT systems.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+- *Languages:* C, C++, Embedded C, Python
+- *Microcontrollers:* STM32 (ARM Cortex-M), ESP32, Arduino/AVR
+- *Protocols:* I2C, SPI, UART, MQTT
+- *Tools:* STM32CubeIDE, FreeRTOS, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My GitHub Stats
+![Deon's GitHub Stats](https://vercel.app)
