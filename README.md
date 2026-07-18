@@ -9,5 +9,4 @@ I am a Computer Engineering Student passionate about building low-level firmware
 - *Protocols:* I2C, SPI, UART, MQTT
 - *Tools:* STM32CubeIDE, FreeRTOS, Git & GitHub
 
-## 📈 My GitHub Stats
-![Deon's GitHub Stats](https://vercel.app)
+
